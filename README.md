@@ -13,3 +13,16 @@ or
 you can run it using this
 
 ./port80.sh
+
+
+For those watching with a later version of kali and having problems with his ipsweep program:
+
+Change 
+
+‘seq 1 254’
+
+to 
+
+$(seq 1 254)
+
+in order for the program to properly run
