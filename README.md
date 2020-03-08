@@ -15,7 +15,7 @@ you can run it using this
 ./port80.sh
 
 
-For those watching with a later version of kali and having problems with his ipsweep program:
+For those using later version of kali and having problems with this ipsweep program:
 
 Change 
 
